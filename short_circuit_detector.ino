@@ -56,7 +56,7 @@ void setup() {
 
   // ===== ACS712 AUTO CALIBRATION =====
   long sum = 0;
-  for (int i = 0; i < 1000; i++) {
+  for (int i = 0; i < 1000; i++){
     sum += analogRead(ACS_PIN);
     delay(2);
   }
