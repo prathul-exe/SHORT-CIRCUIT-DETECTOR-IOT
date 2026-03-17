@@ -156,8 +156,8 @@ iot-short-circuit-protection/
 ---
 ## 👨‍💻 Author
 
-> ✏️ Prathul P Nair.
-> B.Tech Electronics and Communication
+  Prathul P Nair.
+ - B.Tech Electronics and Communication
 
 ---
 ## 🤝 Contributions
