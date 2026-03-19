@@ -2,6 +2,8 @@
 
 A real-time short circuit detection and alert system built on the **ESP32** microcontroller. When a fault is detected via the **ACS712 current sensor**, the system immediately disconnects the load through a **relay module**, triggers a **buzzer** and **LED** alert locally, and sends an instant notification to your phone via **Telegram**.
 
+![System Architecture](IMAGES_VIDEOS/Normal_State.jpeg)
+
 ---
 
 ## 🌐 System Architecture
