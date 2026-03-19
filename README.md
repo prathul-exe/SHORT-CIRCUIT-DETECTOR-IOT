@@ -175,6 +175,6 @@ Have an idea to improve this project? I'd love to hear it! 🚀
 
 Feel free to reach out or share your suggestions:
 
-- 📧 **Email:** prathul.nair@gmail.com 
+- 📧 **Email:** prathul.prasanthjiths@gmail.com
 - 💼 **LinkedIn:**  www.linkedin.com/in/prathul-p-nair
 
