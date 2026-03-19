@@ -132,9 +132,8 @@ iot-short-circuit-protection/
 ├── short_circuit_detector_esp32_code  
 │   └── main.ino        ← Main Arduino sketch
 ├── schematic/
-│   ├── spice_simulation
-│   └── circuit_diagram
-│
+│   └── spice_simulation
+|
 ├── LICENSE
 └── README.md
 
